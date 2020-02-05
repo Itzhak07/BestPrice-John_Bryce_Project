@@ -1,0 +1,14 @@
+{"_id":{"$oid":"5dc6f23e6ae33d4e680738c7"},"name":"Star Wars T-Shirt","category":{"$oid":"5dc43c2d38eca246285f8382"},"price":{"$numberInt":"35"},"image":"71nvL6qOaCL._UX679_.jpg","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5dcd81df6c835442e073b84e"},"name":"Nike Air Max","category":{"$oid":"5dc43ba838eca246285f8381"},"price":{"$numberInt":"120"},"image":"Nike-Air-Max-90-Greyscale-CN0194_002-1 (1).jpg","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5dd29227f6ba133fa81c7ff2"},"name":"Full Cream Milk","category":{"$oid":"5dcd6b5dbcd48342e06a4e8c"},"price":{"$numberInt":"1"},"image":"ShotType1_540x540.jpg","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5def795966ea002ccc02c58c"},"name":"Nike Metcon Flyknit 3","category":{"$oid":"5dc43ba838eca246285f8381"},"price":{"$numberInt":"90"},"image":"p_27733411_157011511_12306301 (1).jpg","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5df10f8b43e43b54b472dfd6"},"name":"Cream Cheese","category":{"$oid":"5dcd6b5dbcd48342e06a4e8c"},"price":{"$numberInt":"4"},"image":"GUEST_86ce78df-bb05-43d8-a153-ab5104f26afe (1).jpg","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5dffafd51249f14690e2d2fc"},"name":"Bananas","category":{"$oid":"5dffaeb7d68ed04a20c18287"},"price":{"$numberInt":"5"},"image":"61fZ+YAYGaL._SL1500_ (1).jpg","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5dffb09c1249f14690e2d2fd"},"name":"Green Apples","category":{"$oid":"5dffaeb7d68ed04a20c18287"},"price":{"$numberInt":"6"},"image":"Bramley-Apples-600x600 (1).jpg","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5dffb14b1249f14690e2d2fe"},"name":"Strawberries","category":{"$oid":"5dffaeb7d68ed04a20c18287"},"price":{"$numberInt":"10"},"image":"download.jpg","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5dffb2921249f14690e2d300"},"name":"Coca Cola ZERO 1.5L","category":{"$oid":"5dffb176d68ed04a20c18288"},"price":{"$numberInt":"2"},"image":"eng_pl_Coca-Cola-a-zero-drink-carbonated-1-5l-5832_1.jpg","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5dffb4201249f14690e2d301"},"name":"Pepsi Max 1.5L","category":{"$oid":"5dffb176d68ed04a20c18288"},"price":{"$numberInt":"2"},"image":"20180828.1535460461.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x (1).jpg","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e04cdd0d9b2df16983cf13f"},"name":"RF Shirt","category":{"$oid":"5dc43c2d38eca246285f8382"},"price":{"$numberInt":"26"},"image":"s-l640.jpg","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e04cdf3d9b2df16983cf140"},"name":"Buddha T-Shirt","category":{"$oid":"5dc43c2d38eca246285f8382"},"price":{"$numberInt":"42"},"image":"2194772_1.jpg","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e04d105d9b2df16983cf142"},"name":"Coca Cola 1.5L","category":{"$oid":"5dffb176d68ed04a20c18288"},"price":{"$numberInt":"2"},"image":"ShotType1_540x540-1.jpg","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e1c4ed5f7469f3e107d467a"},"name":"Quantum Realm T-Shirt","category":{"$oid":"5dc43c2d38eca246285f8382"},"price":{"$numberInt":"36"},"image":"Quantum.jpg","__v":{"$numberInt":"0"}}

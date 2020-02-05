@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5dc43ba838eca246285f8381"},"name":"Shoes"}
+{"_id":{"$oid":"5dc43c2d38eca246285f8382"},"name":"Clothes"}
+{"_id":{"$oid":"5dcd6b5dbcd48342e06a4e8c"},"name":"Milk & Eggs"}
+{"_id":{"$oid":"5dffaeb7d68ed04a20c18287"},"name":"Fruits & Vegetables"}
+{"_id":{"$oid":"5dffb176d68ed04a20c18288"},"name":"Beverages"}
