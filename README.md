@@ -1,15 +1,17 @@
 ﻿# BestPrice-Shopping
-SPA built with Angular 8 and NodeJS.
+### SPA built with Angular 8 and NodeJS.
+# Live Demo: https://mighty-lowlands-72927.herokuapp.com/
 
-Features:
-MVC Architecture
-Modular structure, arranged by feature
 
-Backend:
-Node.js + Express
-MongoDB DB
-JWT for Auth
+## Features:
+* MVC Architecture
+* Modular structure, arranged by feature
 
-Frontend:
-Angular 8
-Material Design
+## Backend:
+* Node.js + Express
+* MongoDB
+* JWT for Auth
+
+## Frontend:
+* Angular 8
+* Material Design
