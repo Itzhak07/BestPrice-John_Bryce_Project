@@ -6,12 +6,12 @@
 ## Brief:
 * MVC Architecture
 
-## Backend:
+**Backend:**
 * Node.js + Express
 * MongoDB
 * JWT for Auth
 
-## Frontend:
+**Frontend:**
 * Angular 8
 * Material Design
 
