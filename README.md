@@ -15,6 +15,9 @@
 * Angular 8
 * Material Design
 
+## Folder Structure:
+**/backend** is where our Node.js server magic happens, **/client** is where the Angular2+ web app magic happens.
+
 ## User:
 
 ###### Home Page:
